@@ -1,0 +1,10 @@
+$TTL	604800
+@   	IN  	SOA 	maniasso.com. root.maniasso.com. (
+                    	2016051101 ; Serial
+                    	10800 ; Refresh
+                    	3600  ; Retry
+                    	604800 ; Expire
+                    	604800) ; Minimum TTL
+@   	IN  	NS  	dns.maniasso.com.
+252  	IN  	PTR 	orangepi.maniasso.com.
+253  	IN  	PTR 	test.maniasso.com.
